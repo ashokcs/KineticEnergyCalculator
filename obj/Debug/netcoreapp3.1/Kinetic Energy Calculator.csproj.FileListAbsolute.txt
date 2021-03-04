@@ -1,0 +1,19 @@
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.exe
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.deps.json
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.runtimeconfig.json
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.runtimeconfig.dev.json
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.dll
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\bin\Debug\netcoreapp3.1\Kinetic Energy Calculator.pdb
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator_MarkupCompile.cache
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator_MarkupCompile.lref
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.g.resources
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.AssemblyInfoInputs.cache
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.AssemblyInfo.cs
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.dll
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.pdb
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.genruntimeconfig.cache
+C:\Users\ashok\source\repos\Kinetic Energy Calculator\obj\Debug\netcoreapp3.1\Kinetic Energy Calculator.csprojAssemblyReference.cache
